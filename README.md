@@ -62,7 +62,7 @@
 <details>
   
   <summary>REFLECTION</summary></br>
-  <p>Reflecting back on the industrial visit to Petronas and Huawei, it was a wonderful opportunity to experience a visit to those companies. I am given the chance to know about life of ‘computer people’ that I will going to face during future. The life experience by Mr. Roman Kvaska makes me more looking forward to my future works, experience and difficulty which I would face. Otherwise, from him, I realize that everyone is actually keep learning on different stage of life and he also keep advise us to have self-learning in computer science skills and knowledge that we are not so expert in. Moreover, I was impressed about the technology and computing who really helps human being convenience and improve our life. In conclusion, I hope that I have the chance to involve myself in this field and now I would spend my free time to learning extra technique to improve myself and become knowledgeable in this field.</p>
+  <p></p>
 
 </details>
 

@@ -24,7 +24,7 @@
 <details>
   
   <summary>REFLECTION</summary></br>
-  <p><After listening to the talk, we gained valuable insights into our professional aspirations and goals. We realize the need topursue relevant academic degrees and build a strong professional profile. This speech has inspired us to refine our career goals and actively pursue experiences that align with the evoving landscape of our chosen profession/p>
+  <p>After listening to the talk, we gained valuable insights into our professional aspirations and goals. We realize the need topursue relevant academic degrees and build a strong professional profile. This speech has inspired us to refine our career goals and actively pursue experiences that align with the evoving landscape of our chosen profession</p>
 
 </details>
 

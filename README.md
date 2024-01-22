@@ -39,7 +39,7 @@
 
 <h3>
   
- [Assignment 3](https://github.com/FamQaiZen/Technology-and-Information-System/blob/main/TIS%20Assignment%203.pdf)
+ [Assignment 3 - Syestem Development](https://github.com/FamQaiZen/Technology-and-Information-System/blob/main/TIS%20Assignment%203.pdf)
 
 </h3>
 

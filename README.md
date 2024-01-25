@@ -71,6 +71,6 @@
 <details>
   
   <summary>REFLECTION</summary></br>
-   <p></p>
+   <p>My goal for this course is to master the intricacies of networking and security. I aspire to use this knowledge to create a robust and resilient system and integrity of digital information in this interconnected world. By doing this design thinking, it enhances my program goal by fostering a problem-solving mindset. It encourages me to approach network and security challenges creatively and emphasizes user-centric solutions. To enhance my potential in the industry, I plan to engage in continuous learning, stay updated on emerging technologies and seek practical experience through internships.</p>
 
 </details>

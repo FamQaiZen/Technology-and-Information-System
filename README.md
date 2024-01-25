@@ -58,7 +58,7 @@
 <details>
   
   <summary>REFLECTION</summary></br>
-  <p></p>
+  <p>After visiting Clarity Techworks I observed a dynamic fusion of innovation and entrepreneurship. It is pioneering the integration of blockchain solutions to streamline operations, enhance security and foster trust in business transactions. The team's passion for leveraging decentralized technology to empower businesses was evident in their personalized approach and commitment to client success. This visit is  a valuable experience and it lets me learn something other than in class. This company has  showcased how emerging technology is being harnessed to catalyze growth.</p>
 
 </details>
 

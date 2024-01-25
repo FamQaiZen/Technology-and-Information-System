@@ -51,7 +51,7 @@
 
 <h3>
   
- [Assignment 4 - Industrial Visit]()
+ [Assignment 4 - Industrial Visit](https://github.com/FamQaiZen/Technology-and-Information-System/blob/main/Asg4.pdf)
 
 </h3>
 
